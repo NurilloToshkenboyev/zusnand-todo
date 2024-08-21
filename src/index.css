@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.background-img {
+  background-image: url('https://get.wallhere.com/photo/abstract-minimalism-purple-violet-circle-atmosphere-lens-flare-pink-magenta-wave-shape-line-petal-screenshot-computer-wallpaper-font-82249.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.todo-list-background {
+  background-image: url('https://get.wallhere.com/photo/abstract-minimalism-purple-violet-circle-atmosphere-lens-flare-pink-magenta-wave-shape-line-petal-screenshot-computer-wallpaper-font-82249.jpg');
+  background-size: cover;
+  background-position: center;
+}
